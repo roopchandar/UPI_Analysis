@@ -34,15 +34,3 @@ Daily UPI transaction data containing:
 - Transaction Value (in crores)
 
 Period: **May 2021 – 2 August 2026**
-
-## Project Structure
-
-```text
-upi-missing-data-imputation/
-├── data/
-├── notebooks/
-├── results/
-│   ├── tables/
-│   └── figures/
-├── README.md
-└── requirements.txt
