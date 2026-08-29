@@ -1,0 +1,6 @@
+Method,Average Rank,Overall Rank
+Time-Series Interpolation,1.0,1
+Median,2.7857142857142856,2
+Mean,3.2857142857142856,3
+MICE,3.642857142857143,4
+KNN,4.2857142857142865,5

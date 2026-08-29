@@ -1,0 +1,11 @@
+Variable,Method,Average Rank
+Value (In Cr.),Time-Series Interpolation,1.0
+Value (In Cr.),Median,3.142857142857143
+Value (In Cr.),MICE,3.2857142857142856
+Value (In Cr.),Mean,3.4285714285714284
+Value (In Cr.),KNN,4.142857142857143
+Volume (In Mn.),Time-Series Interpolation,1.0
+Volume (In Mn.),Median,2.4285714285714284
+Volume (In Mn.),Mean,3.142857142857143
+Volume (In Mn.),MICE,4.0
+Volume (In Mn.),KNN,4.428571428571429
